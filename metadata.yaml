@@ -1,0 +1,32 @@
+_repo: Early-Carriages-and-Roads_66597
+_version: 0.0.1
+alternative_title: Early Carriages & Roads
+creator:
+  author:
+    agent_name: Gilbey, Walter, Sir
+    aliases:
+    - Gilbey, Sir Walter
+    - Gilbey, Walter, Sir, 1st Bart.
+    birthdate: 1831
+    deathdate: 1914
+    gutenberg_agent_id: '39091'
+    url: http://www.gutenberg.org/2009/agents/39091
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Gilbey
+description: ''
+gutenberg_issued: '2021-10-22'
+identifiers:
+  gutenberg: '66597'
+  lccn: 03027292
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Carriages and carts'
+- !lcc 'HE'
+- !lcsh 'Great Britain -- Social life and customs'
+- !lcsh 'Communication and traffic'
+- !lcsh 'Vehicles -- History'
+- GITenberg
+title: Early Carriages and Roads
+url: http://www.gutenberg.org/ebooks/66597

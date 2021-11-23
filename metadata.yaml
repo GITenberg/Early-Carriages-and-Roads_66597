@@ -1,6 +1,9 @@
 _repo: Early-Carriages-and-Roads_66597
 _version: 0.1.0
 alternative_title: Early Carriages & Roads
+covers:
+- cover_type: archival
+  image_path: 66597-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Gilbey, Walter, Sir
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39091
     wikipedia: https://en.wikipedia.org/wiki/Walter_Gilbey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66597#Early-Carriages-and-Roads
 gutenberg_issued: '2021-10-22'
 identifiers:
   gutenberg: '66597'
